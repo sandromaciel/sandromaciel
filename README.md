@@ -18,7 +18,7 @@ Tenho familiaridade com tecnologias como HTML, CSS e JavaScript, além de softwa
           
 ## Formação 🎓
 
-Análise e Desenvolvimento de Sistemas 2/5 (Loading...) 💻
+Análise e Desenvolvimento de Sistemas 3/5 (Loading...) 💻
 
 PUC Minas
 
