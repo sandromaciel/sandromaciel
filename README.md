@@ -2,11 +2,16 @@
 
 ## Sobre mim 😎
 
-Sou estudante, procurando sempre aprender e me atualizar, em meu tempo livre tento fazer cursos relacionados e sempre que posso participo de eventos, meetings e workshops para me inteirar sobre os assuntos mais recentes.
-Como desenvolvedor já fiz alguns projetos acadêmicos voltados principalmente para desenvolvimento web.
-Tenho familiaridade com tecnologias como HTML, CSS e JavaScript, além de softwares de prototipação como o Figma.
+Desenvolvedor, procurando sempre aprender e me atualizar, em meu tempo livre tento fazer cursos relacionados e sempre que posso participo de eventos, meetings e workshops para me inteirar sobre os assuntos mais recentes.
+Atuando como desenvolvedor FullStack atualmente utilizando Angular e ASP.NET Core. Também atuo com prototipação de interfaces e na produção de mockups para o time de desenvolvimento.
+Tenho familiaridade com tecnologias FrontEnd além de softwares de prototipação como o Figma.
 
 ## 🛠️ Tecnologias e Ferramentas
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="15px" width="15px" /> Angular
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="15px" width="15px" /> ASP.NET Core/ C#
+                  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="15px" width="15px" /> HTML
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="15px" width="15px" /> CSS
