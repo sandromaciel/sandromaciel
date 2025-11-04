@@ -24,6 +24,7 @@ Tenho familiaridade com tecnologias FrontEnd além de softwares de prototipaçã
 ## Formação 🎓
 
 Análise e Desenvolvimento de Sistemas 💻
+
 PUC Minas
 
 ## Links
